@@ -1,0 +1,2 @@
+# spbu-timetable
+Навайбкодил
